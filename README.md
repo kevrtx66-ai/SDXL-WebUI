@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TaORtSJILI4NbF8AjgJcHtFrUyHPV7c7))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TaORtSJILI4NbF8AjgJcHtFrUyHPV7c7)
 
 ⚡ Optimized Private Studio (Colab Free Edition)
 
