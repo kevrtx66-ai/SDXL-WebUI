@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TaORtSJILI4NbF8AjgJcHtFrUyHPV7c7)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevrtx66-ai/SDXL-WebUI/blob/main/Image_Gen_Ai_pt1.ipynb)
 
 ⚡ Optimized Private Studio (Colab Free Edition)
 
